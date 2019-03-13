@@ -1,0 +1,7 @@
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\bin\Debug\HashCode.exe.config
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\bin\Debug\HashCode.exe
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\bin\Debug\HashCode.pdb
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\obj\Debug\HashCode.csprojResolveAssemblyReference.cache
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\obj\Debug\HashCode.csproj.CoreCompileInputs.cache
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\obj\Debug\HashCode.exe
+c:\users\philippe.reicher\documents\visual studio 2017\Projects\HashCode\HashCode\obj\Debug\HashCode.pdb
