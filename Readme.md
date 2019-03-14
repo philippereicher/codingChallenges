@@ -3,7 +3,7 @@ Here are all source codes hosted, which were finally submitted to the Coding Cha
 
 In each folder of the respective Coding Challenge will be an overview of : 
 - the team
-- the giben problem
+- the given problem
 - boundary conditions of the challenge
 - link to the organizer of the Coding Challenge
 - the achieved ranking
