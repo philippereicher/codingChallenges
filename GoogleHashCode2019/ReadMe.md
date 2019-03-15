@@ -9,7 +9,9 @@ Table of contents
 
 ## Team
 Team Name: Extremely Correct Code
+
 Team Size: 2
+
 Team Members: 
 
  - [@philippereicher](https://github.com/philippereicher)
